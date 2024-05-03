@@ -1,5 +1,5 @@
 ###########################################################3
-## Codigo para segmentar imagenes 
+## CODE FOR IMAGE SEGMENTATION  
 
 import cv2
 import os
@@ -13,7 +13,7 @@ for filename in os.listdir():
         
         imgColor = cv2.imread(filename)
         imgColor = cv2.cvtColor(imgColor, cv2.COLOR_BGR2RGB)
-
+        # USE RGB COLOR HUMBRALS
         uhr = 200
         ulr = 180
 
