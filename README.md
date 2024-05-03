@@ -8,6 +8,7 @@ Please execute as follows:
     
 the results of a possible segmentation according to the objectives can be the following: 
 ![Imagen sin segmentar](https://github.com/Andrresgil/Deep-Learning-segmentation/blob/main/Mi%20Viaje_0_.jpg) | ![Imagen Segmentada](https://github.com/Andrresgil/Deep-Learning-segmentation/blob/main/Mi%20Viaje_0.jpg)
-
+:-------------------------:|:-------------------------:
+Unsegmented image | Segmented image
 
 
