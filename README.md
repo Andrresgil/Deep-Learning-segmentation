@@ -5,3 +5,5 @@ Please execute as follows:
   - Descomponer_Video.py
   - Proceso_Seg.py
   - Reconstruccion Video.py
+    
+the results of a possible segmentation according to the objectives can be the following: 
