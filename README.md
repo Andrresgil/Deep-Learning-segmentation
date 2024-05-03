@@ -7,3 +7,6 @@ Please execute as follows:
   - Reconstruccion Video.py
     
 the results of a possible segmentation according to the objectives can be the following: 
+
+
+https://github.com/Andrresgil/Deep-Learning-segmentation/blob/main/Mi%20Viaje_0.jpg
